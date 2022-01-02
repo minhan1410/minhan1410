@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://d1bt119lk9d1su.cloudfront.net/wp-content/uploads/2021/04/23053503/Hero-img.svg" style="width:50%;margin-left: auto;margin-right: auto">
+  <img src="https://d1bt119lk9d1su.cloudfront.net/wp-content/uploads/2021/04/23053503/Hero-img.svg" style="width:60%; margin-left: auto;margin-right: auto">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Minh An</h1>
