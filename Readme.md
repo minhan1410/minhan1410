@@ -1,8 +1,8 @@
-<a href="#">
-  <center>
-    <img width="30%" height="auto" src="https://www.nicepng.com/png/full/804-8049853_med-boukrima-specialist-webmaster-php-e-commerce-web.png" />
-  </center>
-</a>
+<center>
+  <a href="#">
+      <img style="text-align: center" width="30%" height="auto" src="https://www.nicepng.com/png/full/804-8049853_med-boukrima-specialist-webmaster-php-e-commerce-web.png"/>
+  </a>
+</center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Minh An</h1>
 
