@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/1b/33/d6/1b33d6d6f4846be8c04f544b1f7103e7.gif" style="margin-left: auto;margin-right: auto">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height= "60px">, I'm Minh An</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Minh An</h1>
 
 ## 🚀 Languages and Tools:
 
