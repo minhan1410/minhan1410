@@ -27,11 +27,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=minhan1410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=minhan1410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
       <img alt="Minh An Github Stats" src="https://github-readme-stats.vercel.app/api?username=minhan1410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=minhan1410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+  <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=minhan1410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
     <img alt="Minh An Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhan1410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <br/>
