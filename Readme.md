@@ -48,6 +48,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=minhan1410">
+    <img src="https://komarev.com/ghpvc/?username=minhan1410" width="170">
 </a>
-<a href="https://github.com/minhan1410?tab=followers"><img src="https://img.shields.io/github/followers/minhan1410?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/minhan1410?tab=followers"><img src="https://img.shields.io/github/followers/minhan1410?label=Followers&style=social" alt="GitHub Badge" width="150"></a>
