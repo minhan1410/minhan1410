@@ -11,29 +11,29 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://www.java.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://postman.com" target="_blank" style="text-decoration: none;">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="45" height="45" style="margin: 0 5px;" />
     </a>
-    <a href="https://www.docker.com" target="_blank">
-        <img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt="Docker" width="45" height="45" style="margin: 0 3px;" />
+    <a href="https://www.docker.com" target="_blank" style="text-decoration: none;">
+        <img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt="Docker" width="45" height="45" style="margin: 0 5px;" />
     </a>
 </p>
 <br/>
