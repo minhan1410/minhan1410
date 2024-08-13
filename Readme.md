@@ -8,7 +8,7 @@
 </p>
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">
